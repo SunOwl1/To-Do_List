@@ -1,2 +1,1 @@
-# To-Do_List
-Creation To-Do list for working with API
+Testing the API on FastAPI
